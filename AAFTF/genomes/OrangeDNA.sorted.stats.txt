@@ -1,0 +1,11 @@
+Assembly statistics for: genomes/Orange.sorted.fasta
+   CONTIG COUNT  =  7424
+   TOTAL LENGTH  =  21807715
+            MIN  =  500
+            MAX  =  30249
+         MEDIAN  =  1657
+           MEAN  =  2937.46
+            L50  =  1203
+            N50  =  5124
+            L90  =  4674
+            N90  =  1193

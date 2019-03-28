@@ -1,0 +1,11 @@
+Assembly statistics for: genomes/Meiospore.sorted.fasta
+   CONTIG COUNT  =  7837
+   TOTAL LENGTH  =  25061939
+            MIN  =  500
+            MAX  =  37025
+         MEDIAN  =  1707
+           MEAN  =  3197.90
+            L50  =  1237
+            N50  =  5816
+            L90  =  4753
+            N90  =  1273
