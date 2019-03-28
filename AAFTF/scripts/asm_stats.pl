@@ -20,6 +20,7 @@ foreach my $file ( readdir(DIR) ) {
     next unless ( $file =~ /(\S+)\.stats.txt$/);
     my $stem = $1;
     $stem =~ s/\.sorted//;
+    $stem =~ s/DNA//;
     open(my $fh => "$dir/$file") || die $!;
     while(<$fh>) {
 	next if /^\s+$/;
